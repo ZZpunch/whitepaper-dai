@@ -258,9 +258,9 @@ Esse módulo facilita o ajuste à DSR (dentro dos rígidos limites de frequênci
 
 ### **Uso do token MKR na Governança Maker**
 
-O token de governança do Protocolo Maker, chamado MKR, permite que seus titulares _votem_ nas mudanças ao Protocolo Maker. É importante destacar que qualquer pessoa, e não apenas titulares de MKR, pode _enviar_ propostas de votação MKR. 
+O token de governança do Protocolo Maker, chamado MKR, permite que seus titulares _votem_ nas mudanças do Protocolo Maker. É importante destacar que qualquer pessoa, e não apenas titulares de MKR, pode _enviar_ propostas de votação MKR. 
 
-É provável que, no futuro, as alterações aprovadas por voto às variáveis de governança do Protocolo não comecem a vigorar imediatamente. Muito pelo contrário: elas poderão demorar até 24 horas se os votantes decidirem ativar o Módulo de segurança da governança (GSM, na sigla em inglês). O atraso dá aos titulares de MKR a chance de acionar uma Desativação, a fim de proteger o sistema contra uma proposta de governança maliciosa, se necessário. Por exemplo, uma proposta que altere os parâmetros de garantia para que contrariem as políticas monetárias estabelecidas ou que permita a desativação de mecanismos de segurança.  
+É provável que, no futuro, as alterações aprovadas por voto às variáveis de governança do Protocolo não comecem a vigorar imediatamente. Muito pelo contrário, elas poderão demorar até 24 horas se os votantes decidirem ativar o Módulo de segurança da governança (GSM, na sigla em inglês). O atraso dá aos titulares de MKR a chance de acionar uma Desativação, a fim de proteger o sistema contra uma proposta de governança maliciosa, se necessário. Por exemplo, uma proposta que altere os parâmetros de garantia para que contrariem as políticas monetárias estabelecidas ou que permita a desativação de mecanismos de segurança.  
 
 **Consultas de proposta e Votações executivas.**
 
@@ -353,7 +353,7 @@ Um evento Cisne negro consiste em um raro ataque crítico surpresa ao sistema. N
 
 O Protocolo Maker é um sistema descentralizado complexo. Como resultado, há o risco de que usuários inexperientes de criptomoedas migrem do Protocolo para sistemas que sejam mais fáceis de usar e entender. 
 
-**Mitigação: ** embora a geração e o uso do Dai sejam simples para a maioria dos entusiastas de criptomoedas e para os Guardiões que utilizam a moeda para negociação com margem, pessoas com menos experiência podem considerar o Protocolo difícil de entender e utilizar. Embora o Dai tenha sido desenvolvido para que o usuário não precisa compreender a mecânica subjacente do Protocolo Maker para aproveitar seus benefícios, [a documentação e os inúmeros recursos](https://docs.makerdao.com/) disponibilizados pela comunidade Maker e pela Fundação Maker ajudam a garantir que a integração ao sistema ocorra da forma mais simples possível.
+**Mitigação: ** embora a geração e o uso do Dai sejam simples para a maioria dos entusiastas de criptomoedas e para os Guardiões que utilizam a moeda para negociação com margem, pessoas com menos experiência podem considerar o Protocolo difícil de entender e utilizar. Embora o Dai tenha sido desenvolvido para que o usuário não precise compreender a mecânica subjacente do Protocolo Maker para aproveitar seus benefícios, [a documentação e os inúmeros recursos](https://docs.makerdao.com/) disponibilizados pela comunidade Maker e pela Fundação Maker ajudam a garantir que a integração ao sistema ocorra da forma mais simples possível.
 
 #### **Dissolução da Fundação Maker**
 
@@ -380,7 +380,7 @@ O Preço de referência do Dai é usado para determinar o valor dos ativos de ga
 
 A Desativação de emergência (ou simplesmente Desativação) tem duas funções principais. Em primeiro lugar, ela é usada em emergências como último recurso para proteger o Protocolo Maker contra ataques à infraestrutura e para aplicar diretamente o Preço de referência do Dai. Entre as emergências, estão atividades maliciosas da Governança, invasões, falhas de segurança e irracionalidade de mercado de longo prazo. Em segundo lugar, ela deve promover a atualização do sistema do Protocolo Maker. O processo de Desativação é controlado exclusivamente pela Governança Maker.
 
-Se um número suficiente de titulares de MKR votantes julgar necessário, eles também podem acionar uma Desativação de emergência depositando MKR no Módulo de desativação de emergência (ESM). Esse procedimento evita que o Módulo de segurança da governança (se ativo) atrase as propostas de Desativação antes que sejam executadas. Assim que alcançado o quórum, a Desativação de emergência passa a vigorar imediatamente.  
+Se um número suficiente de titulares de MKR votantes julgar necessário, eles também podem acionar uma Desativação de emergência depositando MKR no Módulo de desativação de emergência (ESM). Esse procedimento evita que o Módulo de segurança da governança (se ativo) atrase as propostas de Desativação antes que sejam executadas. Assim que alcançado a quantidade mínima obrigatória de membros votantes, a Desativação de emergência passa a vigorar imediatamente.  
 
 **A Desativação de emergência apresenta três fases:**
 
@@ -432,7 +432,7 @@ Todo Dai é garantido por um excedente depositado em contratos inteligentes Ethe
 
 Com centenas de parcerias e uma das mais respeitadas comunidades de desenvolvedores no mundo das criptomoedas, o MakerDAO tornou-se o motor do movimento de finanças descentralizadas (DeFi). A Maker está ampliando as possibilidades de blockchain para fazer cumprir já a promessa de empoderamento econômico. 
 
-Para obter mais informações, acesse o [site do MakerDAO](https://makerdao.com/en/).  
+Para obter mais informações, acesse o [site do MakerDAO](https://makerdao.com/pt-BR/).  
 
 
 # **ANEXOS**
@@ -451,7 +451,7 @@ Como a primeira stablecoin independente, o Dai possibilita que qualquer pessoa a
 
 ### **Geração de dinheiro autossoberana**
 
-O Oasis Borrow permite que todos os usuários do Protocolo Maker gerem Dai ao bloquear garantias em Maker Vaults. Vale destacar que os usuários não precisam acessar intermediários externos para gerar Dai. Os Cofres oferecem a pessoas e empresas a chance de gerar liquidez com seus ativos de forma simples, rápida e relativamente barata.  
+O Oasis Borrow permite que todos os usuários do Protocolo Maker gerem Dai ao bloquear garantias em Maker Vaults. Vale destacar que os usuários não precisam acessar intermediários externos para gerar Dai. Os Cofres oferecem à pessoas e empresas a chance de gerar liquidez com seus ativos de forma simples, rápida e relativamente barata.  
 
 
 ### **Poupança gerada automaticamente**
@@ -469,7 +469,7 @@ Os usuários de remessas se beneficiam do Dai das seguintes maneiras:
 
 
 
-*   **Transferências nacionais e internacionais de baixo custo.** O Dai proporciona economia imediata de custos, com as baixas taxas de 
+*   **Transferências nacionais e internacionais de baixo custo.** O Dai proporciona economia imediata de custos, pois as baixas taxas de 
 <span class="annotated">GAS<span class="annotation">O GAS é uma unidade de medida que estabelece a taxa a ser paga por um usuário para a realização de uma transação na blockchain Ethereum. Todas as transações exigem certo valor do GAS.</span></span>
 substituem as altas taxas cobradas por bancos e serviços de transferência. O baixo custo permite transações mais frequentes.
 *   **Serviço ininterrupto.**  O Dai não depende do horário de funcionamento de bancos para realizar operações. O Protocolo Maker pode ser acessado sempre que for preciso.
@@ -505,7 +505,7 @@ Além disso, como o Dai pode ser usado para pagar por GAS no ecossistema Ethereu
 
 *   [MakerDAO no GitHub](https://github.com/makerdao/)​
 *   [Documentações do MakerDAO](http://docs.makerdao.com/) 
-*   [MakerDAO.com](https://makerdao.com/en/)
+*   [MakerDAO.com](https://makerdao.com/pt-BR/)
 *   [Blog do MakerDAO](https://blog.makerdao.com/)
 *   [Fórum do MakerDAO](https://forum.makerdao.com/)
 *   [Chat do MakerDAO](https://chat.makerdao.com/)
